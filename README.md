@@ -2,3 +2,5 @@
 My first repository
 
 This was created as a first excercise for a training course
+
+My name is Pieter Van de Velde
